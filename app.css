@@ -1,0 +1,55 @@
+body {
+    background-color: #8cc2d1;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem;
+    color: #0c6487;
+}
+
+#rules {
+    color: #3a4d57;
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.6rem;
+}
+
+#form-label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 7px;
+    font-size: 0.8rem;
+    color: #0c6487;
+}
+
+form {
+    padding-bottom: 20px;
+}
+
+#btn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #0c6487;
+    color:#8cc2d1;
+    border-radius: 15px;
+    border-color: aliceblue;
+    border-style: solid;
+}
+
+#new-todo {
+    background-color: #cde8fa;
+    border-style: solid;
+    border-color: aliceblue;
+}
+
+#list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2rem;
+}
+
+.item {
+    color:#3a4d57;
+}
+
+.strikeThrough {
+    text-decoration: line-through;
+}
